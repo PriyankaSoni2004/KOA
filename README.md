@@ -3,7 +3,7 @@
 
 ## Overview 📋
 
-This Flask application utilizes Convolutional Neural Networks (CNNs) to classify knee X-ray images into Kellgren-Lawrence (KL) grades. It offers various CNN architectures, including EfficientNet, Inception, Xception, and ResNet50, along with six different combinations of preprocessing techniques to enhance classification accuracy.
+This application utilizes Convolutional Neural Networks (CNNs) to classify knee X-ray images into Kellgren-Lawrence (KL) grades. It offers various CNN architectures, including EfficientNet, Inception, Xception, and ResNet50, along with six different combinations of preprocessing techniques to enhance classification accuracy.
 
 ## Features 🚀
 
@@ -18,30 +18,10 @@ This Flask application utilizes Convolutional Neural Networks (CNNs) to classify
 
 ## Tech Stack 🛠️
 
-- **Backend**: Python, Flask
+- **Framework**: Streamlit
 - **Deep Learning Libraries**: TensorFlow, Keras
 - **CNN Architectures**: EfficientNet, Inception, Xception, ResNet50
 
-## Setup ⚙️
-
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/your_username/knee-xray-classifier.git
-   ```
-
-2. **Install Dependencies**:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Download Pre-trained Weights** for the chosen CNN architectures.
-4. **Run the Flask Application**:
-
-   ```bash
-   python app.py
-   ```
 
 ## Usage 🖱️
 
