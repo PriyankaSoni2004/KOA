@@ -3,7 +3,7 @@
 
 ## Overview 📋
 
-This application utilizes Convolutional Neural Networks (CNNs) to classify knee X-ray images into Kellgren-Lawrence (KL) grades. It offers various CNN architectures, including EfficientNet, Inception, Xception, and ResNet50, along with six different combinations of preprocessing techniques to enhance classification accuracy.
+This application utilizes Convolutional Neural Networks (CNNs) to classify knee X-ray images into Kellgren-Lawrence (KL) grades. It offers various CNN architectures, including EfficientNet, Inception, Xception, and ResNet50,each having six different combinations of preprocessing techniques to compare classification accuracy.
 
 ## Features 🚀
 
